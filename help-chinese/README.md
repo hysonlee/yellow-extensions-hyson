@@ -11,6 +11,8 @@ Chinese page file for the [help](https://github.com/datenstrom/yellow-extensions
 ## Translator
 hyson
 
+-------------
+
 帮助文档 v0.8.14
 ========
 这是官方help扩展的中文翻译页面。
