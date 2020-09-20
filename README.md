@@ -3,8 +3,7 @@ Some page documents or extensions translated or modified by hyson are stored her
 
 ## Features
 
-* [wymusic](https://github.com/hysonlee/yellow-extensions-hyson/tree/master/wymusic): Embed [Netease cloud music](https://music.163.com/), a music stream service official provided for mainland china only.  
-网易云音乐扩展。
+* [wymusic](https://github.com/hysonlee/yellow-extensions-hyson/tree/master/wymusic): Embed [Netease cloud music](https://music.163.com/), a music stream service official provided for mainland china only.
 
 ## Translation
 
