@@ -9,8 +9,8 @@ Chinese page file for the [help](https://github.com/datenstrom/yellow-extensions
 下载安装官方[help](https://github.com/datenstrom/yellow-extensions/raw/master/zip/help.zip)扩展。
 2. Check the help is available on your website as `http://website/help/` after you install the extension.  
 去您网站`http://website/help/`刷新一下确认help已安装好。
-3. Download the 'cn' folder and copy all of them to `/content/9-help/` which the same place with 'en' and 'de'.   
-下载cn将整个文件夹复制到`help`文件夹下，即与`en`和`de`文件夹放一起。
+3. Download the [help-chinese](https://github.com/hysonlee/yellow-extensions-hyson/raw/master/zip/help-chinese.zip) unzip and copy the `cn` folder to `/content/9-help/` which the same place with 'en' and 'de'.   
+下载[help-chinese](https://github.com/hysonlee/yellow-extensions-hyson/raw/master/zip/help-chinese.zip) 解压后将整个`cn`文件夹复制到`/content/9-help/`文件夹下，即与`en`和`de`文件夹放一起。
 
 ## Translator
 
