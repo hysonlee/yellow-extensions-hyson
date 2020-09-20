@@ -1,12 +1,16 @@
 Help 0.8.14
 ===========
-Chinese page file for the [help](https://github.com/datenstrom/yellow-extensions/tree/master/source/help) extension.
+Chinese page file for the [help](https://github.com/datenstrom/yellow-extensions/tree/master/source/help) extension.  
+这是官方help扩展的中文翻译页面。
 
-## Installation
+## Installation（安装）
 
-1. [Download extension](https://github.com/datenstrom/yellow-extensions/raw/master/zip/help.zip) and copy zip file into your `system/extensions` folder. Right click if you use Safari.
-2. Check the help is available on your website as `http://website/help/` after you install the official extension.
-3. Download the 'cn' folder and copy all of them to `/content/9-help/` which the same place with 'en' and 'de'. 
+1. [Download official help extension](https://github.com/datenstrom/yellow-extensions/raw/master/zip/help.zip) and copy zip file into your `system/extensions` folder. Right click if you use Safari.  
+下载安装官方[help](https://github.com/datenstrom/yellow-extensions/raw/master/zip/help.zip)扩展。
+2. Check the help is available on your website as `http://website/help/` after you install the extension.  
+去您网站`http://website/help/`刷新一下确认help已安装好。
+3. Download the 'cn' folder and copy all of them to `/content/9-help/` which the same place with 'en' and 'de'.   
+下载cn将整个文件夹复制到`help`文件夹下，即与`en`和`de`文件夹放一起。
 
 ## Translator
 
